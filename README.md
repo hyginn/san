@@ -9,7 +9,9 @@
 
 ----
 
-**If any of this information is ambiguous, inaccurate, outdated, or incomplete, please check the [most recent version](https://github.com/hyginn/san) of the package on GitHub and [file an issue](https://github.com/hyginn/san/issues).**
+This project is currently under heavy development and will change significantly before it reaches a stable state.
+
+<!-- **If any of this information is ambiguous, inaccurate, outdated, or incomplete, please check the [most recent version](https://github.com/hyginn/san) of the package on GitHub and [file an issue](https://github.com/hyginn/san/issues).** -->
 
 ----
 
@@ -23,7 +25,7 @@ TOC
 # 1 About this package:
 
 ## 1.1 What it is ...
-...
+san is an RStudio with a model analysis and workflow3 for sequence analysis.
 
 
 &nbsp;
@@ -35,7 +37,7 @@ TOC
 
 ## 1.3 How it works ...
 
-...
+Open a new RStudio Project under version control on your computer, point the directory to here, and download the assets of this project. Then open the file san.R and explore.
 
 ----
 
